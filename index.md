@@ -1,6 +1,6 @@
 ---
-title: This is my title
+title: Zacros
 layout: post
 ---
 
-Here is my page.
+This will be the Zacros homepage.
